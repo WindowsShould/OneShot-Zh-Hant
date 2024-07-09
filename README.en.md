@@ -1,36 +1,20 @@
-# oneshot_zh_hant
+# OneShot Zh-Hant
 
-#### Description
-為 OneShot 添加 中文（繁體）支持。
+#### 介紹
+為 OneShot 添加 中文（繁體）支持。😅
 
-#### Software Architecture
-Software architecture description
+#### 相關
+通過更換 中文（簡體）的相關文件以添加 中文（繁體）的支持。因而不支持 中文（簡體）與 中文（繁體）共存。 
+#### 安裝
 
-#### Installation
+1.  下載 release 中的 OneShot.zip
+2.  解壓，並將其覆蓋至 Steam 安裝目錄中的 OneShot 文件夾。
+（註意：裏面文件夾選擇合並，文件選擇覆蓋）
+（建議在替換前先做好備份！）
+3.  
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+#### 特性
 
 
-#### Gitee Feature
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
