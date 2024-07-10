@@ -1,5 +1,6 @@
 # OneShot Zh-Hant
 
+[English Docs](https://gitee.com/winshd/oneshot_zh_hant/blob/master/README.md)
 #### 介紹
 為 OneShot 添加 中文（繁體）支持。😅
 
