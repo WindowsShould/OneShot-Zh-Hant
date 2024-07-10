@@ -1,5 +1,5 @@
 # OneShot Zh-Hant
-####introduce
+#### introduce
 Add Chinese (Traditional) support for OneShot. 😅
 
 #### Related
