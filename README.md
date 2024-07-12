@@ -20,3 +20,5 @@
 ![The Author 的提醒](demo3.PNG)
 ![世界機器的提醒](demot4.png)
 ![Niko 與 silver 的交談](demo5.png)
+
+如需查看相關文件，請前往 Gitee 查看，但您也可以在此處下載 releases。
