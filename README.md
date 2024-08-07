@@ -16,7 +16,7 @@
 #### 演示
 
 ![前往塔樓前被變更的電腦壁紙](photodemo1.PNG)
-![來自世界機器的文本](demo2.PNG)
+![來自世界機器的文本](https://images.winshould.top/file/6d8d9dbed9bcbd49fcb8a.png)
 ![The Author 的提醒](demo3.PNG)
 ![世界機器的提醒](demot4.png)
 ![Niko 與 silver 的交談](demo5.png)
